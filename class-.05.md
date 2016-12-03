@@ -1,0 +1,5 @@
+#Class 05
+
+Today was interesting! We did pair programming again but today was different. We did more with git hub today and git commands. I was paired with Gary, who was awesome to work with. Gary and I switched back and forth changing code on our laptops and pushing it to github. I was the one who forked the first time from the class repo. I then added him as a collaborator. I started with problem two which we had no problems with. I was able to make a new branch within my terminal and then edit the code and then push it back up to the master on my github. Then it was Gary's turn to do the coding on his computer and did problem three. We had more problems with problem three. It was a simple error. In our result we had to have an answer and a message. We read the directions too literal and included extra wording that then broke the code.
+Eventually we figured it out and moved on to problem four and five. These we moved pretty fast through.
+Everything else went well today too! I was able to learn new things in class. :) Week one is done! Lets get ready for week two. 
